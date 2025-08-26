@@ -97915,7 +97915,7 @@ break
 default:q="Unknown Form"
 r=""}s=A.kI(12)
 p=t.p
-o=A.a([A.cR(A.a([A.ci(q,j,j,j,j,j,j,j,B.Jq,j,j,j),A.cR(A.a([A.d0(j,B.PQ,k.f,j,j),A.d0(j,B.PO,k.d,j,j),A.d0(j,B.PV,k.e,j,j)],p),B.r,B.l,B.k)],p),B.r,B.f0,B.k),B.IX,k.oP("No Dokumen",r),B.Ob],p)
+o=A.a([A.cR(A.a([A.ci(q,j,j,j,j,j,j,j,B.Jq,j,j,j),A.cR(A.a([A.d0(j,B.PQ,k.f,j,"Lihat Detail"),A.d0(j,B.PO,k.d,j,"Edit Laporan"),A.d0(j,B.PV,k.e,j,"Hapus Laporan")],p),B.r,B.l,B.k)],p),B.r,B.f0,B.k),B.IX,k.oP("No Dokumen",r),B.Ob],p)
 n=J.iR(a0)
 if(n.k(a0,h)){m=a.h(b,"pekerjaan")
 m=m==null?j:J.ac(m,"tanggal")
