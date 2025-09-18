@@ -109241,47 +109241,47 @@ d=(d==null?$.c=B.f:d).A(0,f,s).db
 r=$.c
 r=(r==null?$.c=B.f:r).A(0,f,s).cy.gk(0).a
 if(r==null)r=""
-r=A.bu(f,f,r,f,"No Dokumen",10,1,new A.aup(e),f,f,A.br())
+r=A.bu(f,f,r,f,"No Dokumen",1,1,new A.aup(e),f,f,A.br())
 q=$.c
 q=(q==null?$.c=B.f:q).A(0,f,s).cy.gk(0).b
 if(q==null)q=""
 p=$.af()
 o=this.b
 n=this.c
-q=A.bu(new A.aE(new A.bv(q,B.a0,B.K),p),f,f,f,"Tanggal Terbit",10,1,new A.auq(e),new A.aur(e,o,n),!0,A.br())
+q=A.bu(new A.aE(new A.bv(q,B.a0,B.K),p),f,f,f,"Tanggal Terbit",1,1,new A.auq(e),new A.aur(e,o,n),!0,A.br())
 m=$.c
 m=(m==null?$.c=B.f:m).A(0,f,s).cy.gk(0).c
 if(m==null)m=""
-m=A.bu(f,f,m,f,"No Revisi",10,1,new A.aut(e),f,f,A.br())
+m=A.bu(f,f,m,f,"No Revisi",1,1,new A.aut(e),f,f,A.br())
 l=$.c
 l=(l==null?$.c=B.f:l).A(0,f,s).cy.gk(0).d
 if(l==null)l=""
-l=A.bu(f,f,l,f,"Halaman",10,1,new A.auu(e),f,f,A.br())
+l=A.bu(f,f,l,f,"Halaman",1,1,new A.auu(e),f,f,A.br())
 k=$.c
 k=(k==null?$.c=B.f:k).A(0,f,s).cy.gk(0).e
 if(k==null)k=""
-k=A.bu(f,f,k,f,"Nama Tim Kerja",10,1,new A.auv(e),f,f,A.br())
+k=A.bu(f,f,k,f,"Nama Tim Kerja",1,1,new A.auv(e),f,f,A.br())
 j=$.c
 j=(j==null?$.c=B.f:j).A(0,f,s).cy.gk(0).f
 if(j==null)j=""
-j=A.bu(f,f,j,f,"Nama Alat Sensor",10,1,new A.auw(e),f,f,A.br())
+j=A.bu(f,f,j,f,"Nama Alat Sensor",1,1,new A.auw(e),f,f,A.br())
 i=$.c
 i=(i==null?$.c=B.f:i).A(0,f,s).cy.gk(0).r
 if(i==null)i=""
-i=A.bu(f,f,i,f,"Lokasi",10,1,new A.aux(e),f,f,A.br())
+i=A.bu(f,f,i,f,"Lokasi",1,1,new A.aux(e),f,f,A.br())
 h=$.c
 if((h==null?$.c=B.f:h).A(0,f,s).go.gk(0)!=null){h=$.c
 h=(h==null?$.c=B.f:h).A(0,f,s).go.gk(0)
 h.toString
 h=n.fs(h)}else h=""
-h=A.ca(A.bu(new A.aE(new A.bv(h,B.a0,B.K),p),f,f,f,"Tanggal Mulai",10,1,f,new A.auy(e,o),!0,A.br()),1)
+h=A.ca(A.bu(new A.aE(new A.bv(h,B.a0,B.K),p),f,f,f,"Tanggal Mulai",1,1,f,new A.auy(e,o),!0,A.br()),1)
 g=$.c
 if((g==null?$.c=B.f:g).A(0,f,s).id.gk(0)!=null){g=$.c
 s=(g==null?$.c=B.f:g).A(0,f,s).id.gk(0)
 s.toString
 s=n.fs(s)}else s=""
 g=t.p
-d=A.ca(A.dD(A.fc(f,A.aR(A.b([B.P2,B.aq,r,B.r,q,B.r,m,B.r,l,B.r,k,B.r,j,B.r,i,B.r,A.cI(A.b([h,B.i8,A.ca(A.bu(new A.aE(new A.bv(s,B.a0,B.K),p),f,f,f,"Tanggal Selesai",10,1,f,new A.auz(e,o),!0,A.br()),1)],g),B.m,f,B.l,B.j),B.r],g),B.a2,f,B.l,B.j),d),f,f,B.J),1)
+d=A.ca(A.dD(A.fc(f,A.aR(A.b([B.P2,B.aq,r,B.r,q,B.r,m,B.r,l,B.r,k,B.r,j,B.r,i,B.r,A.cI(A.b([h,B.i8,A.ca(A.bu(new A.aE(new A.bv(s,B.a0,B.K),p),f,f,f,"Tanggal Selesai",1,1,f,new A.auz(e,o),!0,A.br()),1)],g),B.m,f,B.l,B.j),B.r],g),B.a2,f,B.l,B.j),d),f,f,B.J),1)
 $.aQ()
 o=t.cM
 p=$.c
@@ -109409,7 +109409,7 @@ if(l!=null)l.a0(0,o)
 l=J.X(J.X(a.aD$,n),"jumlah")
 k=$.cY
 if(k!=null)k.a0(0,o)
-m=A.cI(A.b([new A.wg(3,B.iX,new A.kA("Nama Peralatan",A.br(),j,1,10,m,j,j,j,j,j,j),j),B.i8,new A.wg(1,B.iX,new A.kA("Jumlah",A.br(),j,1,10,l,j,j,j,B.ic,j,j),j),B.i8,new A.wg(2,B.iX,new A.kA("Kondisi",A.br(),j,1,10,J.X(J.X(a.aD$,n),"kondisi"),j,j,j,j,j,j),j)],s),B.m,j,B.l,B.j)
+m=A.cI(A.b([new A.wg(3,B.iX,new A.kA("Nama Peralatan",A.br(),j,1,1,m,j,j,j,j,j,j),j),B.i8,new A.wg(1,B.iX,new A.kA("Jumlah",A.br(),j,1,1,l,j,j,j,B.ic,j,j),j),B.i8,new A.wg(2,B.iX,new A.kA("Kondisi",A.br(),j,1,1,J.X(J.X(a.aD$,n),"kondisi"),j,j,j,j,j,j),j)],s),B.m,j,B.l,B.j)
 l=A.b([],s)
 k=$.cY
 if(k!=null)k.a0(0,o)
@@ -109513,13 +109513,13 @@ r=$.c
 r=(r==null?$.c=B.f:r).A(0,h,s).cy.gk(0).z
 r=r==null?h:r.a
 if(r==null)r=""
-r=A.bu(h,h,r,h,"Nama Ketua Tim",10,1,new A.aDO(g),h,h,A.br())
+r=A.bu(h,h,r,h,"Nama Ketua Tim",1,1,new A.aDO(g),h,h,A.br())
 q=$.c
 q=(q==null?$.c=B.f:q).A(0,h,s).cy.gk(0).z
 q=q==null?h:q.b
 if(q==null)q=""
 p=t.p
-q=A.b([B.tJ,B.aq,B.tM,r,B.r,A.bu(h,h,q,h,"NIP Ketua Tim",10,1,new A.aDP(g),h,h,A.br()),B.aq,B.Pn],p)
+q=A.b([B.tJ,B.aq,B.tM,r,B.r,A.bu(h,h,q,h,"NIP Ketua Tim",1,1,new A.aDP(g),h,h,A.br()),B.aq,B.Pn],p)
 r=$.c
 o=J.ag((r==null?$.c=B.f:r).A(0,h,s).fy.gk(0))
 n=J.bV(o,t.l7)
@@ -109546,7 +109546,7 @@ if(i!=null)i.a0(0,j.az$)
 j=j.aD$
 j===$&&A.a()
 if(J.ag(j)-1===m)k.push(A.dd(h,h,h,h,B.cU,h,new A.aDR(g),h,h,h,h,h))
-n[m]=A.aR(A.b([new A.kA("Nama Teknisi "+l,A.br(),h,1,10,r,h,h,h,h,h,h),B.r,B.ch,A.cI(k,B.m,h,B.bL,B.j)],p),B.m,h,B.l,B.j)}B.b.S(q,n)
+n[m]=A.aR(A.b([new A.kA("Nama Teknisi "+l,A.br(),h,1,1,r,h,h,h,h,h,h),B.r,B.ch,A.cI(k,B.m,h,B.bL,B.j)],p),B.m,h,B.l,B.j)}B.b.S(q,n)
 f=A.ca(A.dD(A.fc(h,A.aR(q,B.a2,h,B.l,B.j),f),h,h,B.J),1)
 $.aQ()
 s=t.cM
@@ -109958,47 +109958,47 @@ d=(d==null?$.c=B.f:d).A(0,f,s).db
 r=$.c
 r=(r==null?$.c=B.f:r).A(0,f,s).cy.gk(0).a
 if(r==null)r=""
-r=A.bu(f,f,r,f,"No Dokumen",10,1,new A.auC(e),f,f,A.br())
+r=A.bu(f,f,r,f,"No Dokumen",1,1,new A.auC(e),f,f,A.br())
 q=$.c
 q=(q==null?$.c=B.f:q).A(0,f,s).cy.gk(0).b
 if(q==null)q=""
 p=$.af()
 o=this.b
 n=this.c
-q=A.bu(new A.aE(new A.bv(q,B.a0,B.K),p),f,f,f,"Tanggal Terbit",10,1,new A.auD(e),new A.auE(e,o,n),!0,A.br())
+q=A.bu(new A.aE(new A.bv(q,B.a0,B.K),p),f,f,f,"Tanggal Terbit",1,1,new A.auD(e),new A.auE(e,o,n),!0,A.br())
 m=$.c
 m=(m==null?$.c=B.f:m).A(0,f,s).cy.gk(0).c
 if(m==null)m=""
-m=A.bu(f,f,m,f,"No Revisi",10,1,new A.auG(e),f,f,A.br())
+m=A.bu(f,f,m,f,"No Revisi",1,1,new A.auG(e),f,f,A.br())
 l=$.c
 l=(l==null?$.c=B.f:l).A(0,f,s).cy.gk(0).d
 if(l==null)l=""
-l=A.bu(f,f,l,f,"Halaman",10,1,new A.auH(e),f,f,A.br())
+l=A.bu(f,f,l,f,"Halaman",1,1,new A.auH(e),f,f,A.br())
 k=$.c
 k=(k==null?$.c=B.f:k).A(0,f,s).cy.gk(0).e
 if(k==null)k=""
-k=A.bu(f,f,k,f,"Nama Tim Kerja",10,1,new A.auI(e),f,f,A.br())
+k=A.bu(f,f,k,f,"Nama Tim Kerja",1,1,new A.auI(e),f,f,A.br())
 j=$.c
 j=(j==null?$.c=B.f:j).A(0,f,s).cy.gk(0).f
 if(j==null)j=""
-j=A.bu(f,f,j,f,"Nama Alat / Sensor",10,1,new A.auJ(e),f,f,A.br())
+j=A.bu(f,f,j,f,"Nama Alat / Sensor",1,1,new A.auJ(e),f,f,A.br())
 i=$.c
 i=(i==null?$.c=B.f:i).A(0,f,s).cy.gk(0).r
 if(i==null)i=""
-i=A.bu(f,f,i,f,"Lokasi",10,1,new A.auK(e),f,f,A.br())
+i=A.bu(f,f,i,f,"Lokasi",1,1,new A.auK(e),f,f,A.br())
 h=$.c
 if((h==null?$.c=B.f:h).A(0,f,s).fy.gk(0)!=null){h=$.c
 h=(h==null?$.c=B.f:h).A(0,f,s).fy.gk(0)
 h.toString
 h=n.fs(h)}else h=""
-h=A.ca(A.bu(new A.aE(new A.bv(h,B.a0,B.K),p),f,f,f,"Tanggal Mulai",10,1,f,new A.auL(e,o),!0,A.br()),1)
+h=A.ca(A.bu(new A.aE(new A.bv(h,B.a0,B.K),p),f,f,f,"Tanggal Mulai",1,1,f,new A.auL(e,o),!0,A.br()),1)
 g=$.c
 if((g==null?$.c=B.f:g).A(0,f,s).go.gk(0)!=null){g=$.c
 s=(g==null?$.c=B.f:g).A(0,f,s).go.gk(0)
 s.toString
 s=n.fs(s)}else s=""
 g=t.p
-d=A.ca(A.dD(A.fc(f,A.aR(A.b([B.P2,B.aq,r,B.r,q,B.r,m,B.r,l,B.r,k,B.r,j,B.r,i,B.r,A.cI(A.b([h,B.i8,A.ca(A.bu(new A.aE(new A.bv(s,B.a0,B.K),p),f,f,f,"Tanggal Selesai",10,1,f,new A.auM(e,o),!0,A.br()),1)],g),B.m,f,B.l,B.j),B.r],g),B.a2,f,B.l,B.j),d),f,f,B.J),1)
+d=A.ca(A.dD(A.fc(f,A.aR(A.b([B.P2,B.aq,r,B.r,q,B.r,m,B.r,l,B.r,k,B.r,j,B.r,i,B.r,A.cI(A.b([h,B.i8,A.ca(A.bu(new A.aE(new A.bv(s,B.a0,B.K),p),f,f,f,"Tanggal Selesai",1,1,f,new A.auM(e,o),!0,A.br()),1)],g),B.m,f,B.l,B.j),B.r],g),B.a2,f,B.l,B.j),d),f,f,B.J),1)
 $.aQ()
 o=t.Sc
 p=$.c
@@ -110118,13 +110118,13 @@ r=$.c
 r=(r==null?$.c=B.f:r).A(0,h,s).cy.gk(0).z
 r=r==null?h:r.a
 if(r==null)r=""
-r=A.bu(h,h,r,h,"Nama Ketua Tim",10,1,new A.aE1(g),h,h,A.br())
+r=A.bu(h,h,r,h,"Nama Ketua Tim",1,1,new A.aE1(g),h,h,A.br())
 q=$.c
 q=(q==null?$.c=B.f:q).A(0,h,s).cy.gk(0).z
 q=q==null?h:q.b
 if(q==null)q=""
 p=t.p
-q=A.b([B.tJ,B.aq,B.tM,B.r,r,B.r,A.bu(h,h,q,h,"NIP Ketua Tim",10,1,new A.aE2(g),h,h,A.br()),B.aq,B.Pn],p)
+q=A.b([B.tJ,B.aq,B.tM,B.r,r,B.r,A.bu(h,h,q,h,"NIP Ketua Tim",1,1,new A.aE2(g),h,h,A.br()),B.aq,B.Pn],p)
 r=$.c
 o=J.ag((r==null?$.c=B.f:r).A(0,h,s).fx.gk(0))
 n=J.bV(o,t.l7)
@@ -110151,7 +110151,7 @@ if(i!=null)i.a0(0,j.az$)
 j=j.aD$
 j===$&&A.a()
 if(J.ag(j)-1===m)k.push(A.dd(h,h,h,h,B.cU,h,new A.aE4(g),h,h,h,h,h))
-n[m]=A.aR(A.b([new A.kA("Nama Teknisi "+l,A.br(),h,1,10,r,h,h,h,h,h,h),B.r,B.ch,A.cI(k,B.m,h,B.bL,B.j)],p),B.m,h,B.l,B.j)}B.b.S(q,n)
+n[m]=A.aR(A.b([new A.kA("Nama Teknisi "+l,A.br(),h,1,1,r,h,h,h,h,h,h),B.r,B.ch,A.cI(k,B.m,h,B.bL,B.j)],p),B.m,h,B.l,B.j)}B.b.S(q,n)
 f=A.ca(A.dD(A.fc(h,A.aR(q,B.a2,h,B.l,B.j),f),h,h,B.J),1)
 $.aQ()
 s=t.Sc
@@ -110357,7 +110357,7 @@ if(i!=null)i.a0(0,j.az$)
 j=j.aD$
 j===$&&A.a()
 if(J.ag(j)-1===m)l.push(A.dd(h,h,h,h,B.cU,h,new A.aNg(g),h,h,h,h,h))
-n[m]=A.aR(A.b([new A.kA("Tindakan "+k,A.br(),h,1,10,p,h,h,h,h,h,h),B.r,B.ch,A.cI(l,B.m,h,B.bL,B.j)],q),B.m,h,B.l,B.j)}B.b.S(r,n)
+n[m]=A.aR(A.b([new A.kA("Tindakan "+k,A.br(),h,1,1,p,h,h,h,h,h,h),B.r,B.ch,A.cI(l,B.m,h,B.bL,B.j)],q),B.m,h,B.l,B.j)}B.b.S(r,n)
 f=A.ca(A.dD(A.fc(h,A.aR(r,B.a2,h,B.l,B.j),f),h,h,B.J),1)
 $.aQ()
 s=t.Sc
@@ -110757,7 +110757,7 @@ r=J.X(j.A(0,l,s).to.gk(0),a)
 j=this.b
 q=A.bA("Tindakan "+(a+1),l,l,l,l,l,l,l,A.L(j).p2.w,l,l,l)
 p=J.W(r)
-j=A.bu(p.i(r,"date"),"Pilih Tanggal",l,l,"Tanggal Pelaksanaan",10,1,l,new A.ah8(k,j,r),!0,l)
+j=A.bu(p.i(r,"date"),"Pilih Tanggal",l,l,"Tanggal Pelaksanaan",1,1,l,new A.ah8(k,j,r),!0,l)
 p=A.bu(p.i(r,"description"),"Deskripsi",l,l,"Uraian Tindakan",3,2,l,l,l,A.br())
 o=t.p
 n=A.b([],o)
@@ -110847,7 +110847,7 @@ r=A.aOc(r,"Foto",1,new A.aif(d))
 q=$.c
 q=(q==null?$.c=B.f:q).A(0,e,s).aE.gk(0).b
 if(q==null)q=""
-q=A.bu(e,e,q,B.ic,"Nomor",10,1,new A.aig(d),e,e,A.br())
+q=A.bu(e,e,q,B.ic,"Nomor",1,1,new A.aig(d),e,e,A.br())
 p=$.c
 if((p==null?$.c=B.f:p).A(0,e,s).ap.gk(0)!=null){p=A.hD("dd MMMM yyyy",e)
 o=$.c
@@ -110856,7 +110856,7 @@ o.toString
 o=p.fs(o)
 p=o}else p=""
 o=this.b
-p=A.bu(new A.aE(new A.bv(p,B.a0,B.K),$.af()),e,e,e,"Tanggal",10,1,e,new A.aih(d,o),!0,A.br())
+p=A.bu(new A.aE(new A.bv(p,B.a0,B.K),$.af()),e,e,e,"Tanggal",1,1,e,new A.aih(d,o),!0,A.br())
 n=$.c
 if((n==null?$.c=B.f:n).A(0,e,s).aE.gk(0).r!=null){n=$.c
 n=(n==null?$.c=B.f:n).A(0,e,s).aE.gk(0).r
@@ -110872,28 +110872,28 @@ m=A.aOc(m,"Foto Pasang Suku Cadang",1,new A.aim(d))
 l=$.c
 l=(l==null?$.c=B.f:l).A(0,e,s).bB.gk(0).b
 if(l==null)l=""
-l=A.bu(e,e,l,B.dZ,"Nama",10,1,new A.ain(d),e,e,A.br())
+l=A.bu(e,e,l,B.dZ,"Nama",1,1,new A.ain(d),e,e,A.br())
 k=$.c
 k=(k==null?$.c=B.f:k).A(0,e,s).bB.gk(0).c
 if(k==null)k=""
-k=A.bu(e,e,k,B.dZ,"NIP",10,1,new A.aio(d),e,e,A.br())
+k=A.bu(e,e,k,B.dZ,"NIP",1,1,new A.aio(d),e,e,A.br())
 j=$.c
 j=(j==null?$.c=B.f:j).A(0,e,s).bB.gk(0).a
 if(j==null)j=""
-j=A.bu(e,e,j,B.dZ,"Jabatan",10,1,new A.aip(d),e,e,A.br())
+j=A.bu(e,e,j,B.dZ,"Jabatan",1,1,new A.aip(d),e,e,A.br())
 i=$.c
 i=(i==null?$.c=B.f:i).A(0,e,s).by.gk(0).b
 if(i==null)i=""
-i=A.bu(e,e,i,B.dZ,"Nama",10,1,new A.aiq(d),e,e,A.br())
+i=A.bu(e,e,i,B.dZ,"Nama",1,1,new A.aiq(d),e,e,A.br())
 h=$.c
 h=(h==null?$.c=B.f:h).A(0,e,s).by.gk(0).c
 if(h==null)h=""
-h=A.bu(e,e,h,B.dZ,"NIP",10,1,new A.air(d),e,e,A.br())
+h=A.bu(e,e,h,B.dZ,"NIP",1,1,new A.air(d),e,e,A.br())
 g=$.c
 g=(g==null?$.c=B.f:g).A(0,e,s).by.gk(0).a
 if(g==null)g=""
 f=t.p
-g=A.b([B.aiG,r,B.r,q,B.r,p,B.r,n,B.r,m,B.aq,B.aiL,l,B.r,k,B.r,j,B.aq,B.aiv,i,B.r,h,B.r,A.bu(e,e,g,B.dZ,"Jabatan",10,1,new A.ais(d),e,e,A.br()),B.aq,B.aiz],f)
+g=A.b([B.aiG,r,B.r,q,B.r,p,B.r,n,B.r,m,B.aq,B.aiL,l,B.r,k,B.r,j,B.aq,B.aiv,i,B.r,h,B.r,A.bu(e,e,g,B.dZ,"Jabatan",1,1,new A.ais(d),e,e,A.br()),B.aq,B.aiz],f)
 h=$.c
 B.b.S(g,A.ts(J.ag((h==null?$.c=B.f:h).A(0,e,s).b9.gk(0)),new A.aii(d,o),!0,t.l7))
 c=A.ca(A.dD(A.fc(e,A.aR(g,B.a2,e,B.l,B.j),c),e,e,B.J),1)
@@ -110973,14 +110973,14 @@ s=A.i(e).j("T.T")
 r=J.X(d.A(0,f,s).b9.gk(0),a)
 d=A.bA("Item "+(a+1),f,f,f,f,f,f,f,A.L(this.b).p2.w,f,f,f)
 q=J.W(r)
-p=A.bu(q.i(r,"no"),f,f,B.ic,"Nomor",10,1,f,f,f,A.br())
-o=A.bu(q.i(r,"name"),f,f,f,"Nama Barang",10,1,f,f,f,A.br())
-n=A.bu(q.i(r,"merk"),f,f,f,"Merek",10,1,f,f,f,A.br())
-m=A.bu(q.i(r,"type"),f,f,f,"Type",10,1,f,f,f,A.br())
-l=A.bu(q.i(r,"serial"),f,f,f,"Serial Number",10,1,f,f,f,A.br())
-k=A.bu(q.i(r,"site"),f,f,f,"Site",10,1,f,f,f,A.br())
-j=A.bu(q.i(r,"qty"),f,f,B.ic,"Jumlah",10,1,f,f,f,A.br())
-q=A.bu(q.i(r,"year"),f,f,B.ic,"Tahun Pengadaan",10,1,f,f,f,A.br())
+p=A.bu(q.i(r,"no"),f,f,B.ic,"Nomor",1,1,f,f,f,A.br())
+o=A.bu(q.i(r,"name"),f,f,f,"Nama Barang",1,1,f,f,f,A.br())
+n=A.bu(q.i(r,"merk"),f,f,f,"Merek",1,1,f,f,f,A.br())
+m=A.bu(q.i(r,"type"),f,f,f,"Type",1,1,f,f,f,A.br())
+l=A.bu(q.i(r,"serial"),f,f,f,"Serial Number",1,1,f,f,f,A.br())
+k=A.bu(q.i(r,"site"),f,f,f,"Site",1,1,f,f,f,A.br())
+j=A.bu(q.i(r,"qty"),f,f,B.ic,"Jumlah",1,1,f,f,f,A.br())
+q=A.bu(q.i(r,"year"),f,f,B.ic,"Tahun Pengadaan",1,1,f,f,f,A.br())
 i=t.p
 h=A.b([],i)
 g=$.c
@@ -111174,8 +111174,8 @@ q=J.W(r)
 p=q.i(r,"name")
 o=$.c
 p=A.b2n("Pilih Peralatan",(o==null?$.c=B.f:o).A(0,k,s).cy,new A.atR(j,r),p)
-o=A.bu(q.i(r,"nameBefore"),k,k,k,"Nama Alat (Sebelum)",10,1,k,k,k,A.br())
-q=A.bu(q.i(r,"nameAfter"),k,k,k,"Nama Alat (Sesudah)",10,1,k,k,k,A.br())
+o=A.bu(q.i(r,"nameBefore"),k,k,k,"Nama Alat (Sebelum)",1,1,k,k,k,A.br())
+q=A.bu(q.i(r,"nameAfter"),k,k,k,"Nama Alat (Sesudah)",1,1,k,k,k,A.br())
 n=t.p
 m=A.b([],n)
 l=$.c
@@ -111296,7 +111296,7 @@ if(g!=null)g.a0(0,h.az$)
 h=h.aD$
 h===$&&A.a()
 if(J.ag(h)-1===m)i.push(A.dd(f,f,f,f,B.cU,f,new A.aui(e),f,f,f,f,f))
-n[m]=A.aR(A.b([new A.dr("Dokumentasi "+l,f,B.k2,f,f,f,f,f,f,f,f,f,f),B.r,new A.kA("Keterangan",f,f,1,10,k,f,f,f,f,f,f),B.r,new A.DV(1,new A.auj(e,m),"Foto",j,f),B.r,B.ch,A.cI(i,B.m,f,B.bL,B.j)],q),B.a2,f,B.l,B.j)}B.b.S(r,n)
+n[m]=A.aR(A.b([new A.dr("Dokumentasi "+l,f,B.k2,f,f,f,f,f,f,f,f,f,f),B.r,new A.kA("Keterangan",f,f,1,1,k,f,f,f,f,f,f),B.r,new A.DV(1,new A.auj(e,m),"Foto",j,f),B.r,B.ch,A.cI(i,B.m,f,B.bL,B.j)],q),B.a2,f,B.l,B.j)}B.b.S(r,n)
 d=A.ca(A.dD(A.fc(f,A.aR(r,B.a2,f,B.l,B.j),d),f,f,B.J),1)
 $.aQ()
 s=t.E
@@ -111393,16 +111393,16 @@ n=$.c
 p=A.b8v(new A.HT(o,new A.bn(B.dK,A.a3F(!0,B.dR,!1,h,!0,B.a1,h,A.b1c(),J.X((n==null?$.c=B.f:n).A(0,h,s).ok.gk(0),a),h,h,h,h,h,2,B.Y3,B.af,!0,h,!0,h,!1,h,B.e1,h,h,h,h,h,h,h,1,h,h,!1,"\u2022",h,h,h,h,h,!1,h,!1,h,!0,h,B.cs,h,h,B.dE,B.de,h,h,h,h,h,h,h,B.ba,h,B.k0,h,h,h,h),h),60,new A.aD9()),"Pilih Nama",p,new A.aDa(g,a),q)
 o=$.c
 o=J.X((o==null?$.c=B.f:o).A(0,h,s).k4.gk(0),a).b
-o=A.bu(h,h,o==null?"":o,h,"NIP",10,1,h,h,h,A.br())
+o=A.bu(h,h,o==null?"":o,h,"NIP",1,1,h,h,h,A.br())
 n=$.c
 n=J.X((n==null?$.c=B.f:n).A(0,h,s).k4.gk(0),a).c
-n=A.bu(h,h,n==null?"":n,h,"Pangkat/Golongan",10,1,h,h,h,A.br())
+n=A.bu(h,h,n==null?"":n,h,"Pangkat/Golongan",1,1,h,h,h,A.br())
 m=$.c
 m=J.X((m==null?$.c=B.f:m).A(0,h,s).k4.gk(0),a).d
-m=A.bu(h,h,m==null?"":m,h,"Jabatan",10,1,h,h,h,A.br())
+m=A.bu(h,h,m==null?"":m,h,"Jabatan",1,1,h,h,h,A.br())
 l=$.c
 l=J.X((l==null?$.c=B.f:l).A(0,h,s).k4.gk(0),a).e
-l=A.bu(h,h,l==null?"":l,h,"Unit Organisasi",10,1,h,h,h,A.br())
+l=A.bu(h,h,l==null?"":l,h,"Unit Organisasi",1,1,h,h,h,A.br())
 k=t.p
 j=A.b([],k)
 i=$.c
@@ -111497,7 +111497,7 @@ if(j==null)j=$.c=B.f
 s=A.i(k).j("T.T")
 j=j.A(0,m,s).p1
 r=$.c
-r=A.bu(m,"Contoh: Site DBKI, Dusun Selatan, Barito Selatan",(r==null?$.c=B.f:r).A(0,m,s).p2.gk(0).a,m,"Tempat / Lokasi",10,1,new A.aDh(k),m,m,A.br())
+r=A.bu(m,"Contoh: Site DBKI, Dusun Selatan, Barito Selatan",(r==null?$.c=B.f:r).A(0,m,s).p2.gk(0).a,m,"Tempat / Lokasi",1,1,new A.aDh(k),m,m,A.br())
 q=$.c
 if((q==null?$.c=B.f:q).A(0,m,s).p3.gk(0)!=null){q=$.c
 q=(q==null?$.c=B.f:q).A(0,m,s).p3.gk(0)
@@ -111505,13 +111505,13 @@ q.toString
 q=l.fs(q)}else q=""
 p=$.af()
 o=this.b
-q=A.bu(new A.aE(new A.bv(q,B.a0,B.K),p),m,m,m,"Tanggal Mulai",10,1,m,new A.aDi(k,o),!0,A.br())
+q=A.bu(new A.aE(new A.bv(q,B.a0,B.K),p),m,m,m,"Tanggal Mulai",1,1,m,new A.aDi(k,o),!0,A.br())
 n=$.c
 if((n==null?$.c=B.f:n).A(0,m,s).p4.gk(0)!=null){n=$.c
 n=(n==null?$.c=B.f:n).A(0,m,s).p4.gk(0)
 n.toString
 n=l.fs(n)}else n=""
-p=A.bu(new A.aE(new A.bv(n,B.a0,B.K),p),m,m,m,"Tanggal Selesai",10,1,m,new A.aDj(k,o),!0,A.br())
+p=A.bu(new A.aE(new A.bv(n,B.a0,B.K),p),m,m,m,"Tanggal Selesai",1,1,m,new A.aDj(k,o),!0,A.br())
 o=$.c
 n=t.p
 j=A.ca(A.dD(A.fc(m,A.aR(A.b([B.aiJ,B.aq,r,B.r,q,B.r,p,B.r,A.bu(m,"Contoh: Pemeliharaan Adaptif dan Korektif inaTEWS",(o==null?$.c=B.f:o).A(0,m,s).p2.gk(0).c,m,"Tujuan",5,3,new A.aDk(k),m,m,A.br())],n),B.a2,m,B.l,B.j),j),B.VY,m,B.J),1)
@@ -111646,17 +111646,17 @@ j=A.b8v(new A.HT(q,new A.bn(B.dK,A.a3F(!0,B.dR,!1,l,!0,B.a1,l,A.b1c(),(p==null?$
 r=$.c
 r=(r==null?$.c=B.f:r).A(0,l,s).fy.gk(0).b
 if(r==null)r=""
-r=A.bu(l,"Contoh: DBKI",r,l,"Kode",10,1,new A.aKJ(k),l,!0,A.br())
+r=A.bu(l,"Contoh: DBKI",r,l,"Kode",1,1,new A.aKJ(k),l,!0,A.br())
 q=$.c
-q=A.bu(l,"Contoh: Type-A",(q==null?$.c=B.f:q).A(0,l,s).fy.gk(0).c,l,"Type",10,1,new A.aKK(k),l,!0,A.br())
+q=A.bu(l,"Contoh: Type-A",(q==null?$.c=B.f:q).A(0,l,s).fy.gk(0).c,l,"Type",1,1,new A.aKK(k),l,!0,A.br())
 p=$.c
-p=A.bu(l,"Contoh: -1.6792",(p==null?$.c=B.f:p).A(0,l,s).fy.gk(0).r,l,"Koordinat Lintang",10,1,new A.aKL(k),l,!0,A.br())
+p=A.bu(l,"Contoh: -1.6792",(p==null?$.c=B.f:p).A(0,l,s).fy.gk(0).r,l,"Koordinat Lintang",1,1,new A.aKL(k),l,!0,A.br())
 o=$.c
-o=A.bu(l,"Contoh: 114.9081",(o==null?$.c=B.f:o).A(0,l,s).fy.gk(0).w,l,"Koordinat Bujur",10,1,new A.aKM(k),l,!0,A.br())
+o=A.bu(l,"Contoh: 114.9081",(o==null?$.c=B.f:o).A(0,l,s).fy.gk(0).w,l,"Koordinat Bujur",1,1,new A.aKM(k),l,!0,A.br())
 n=$.c
-n=A.bu(l,"Contoh: Dusun Selatan",(n==null?$.c=B.f:n).A(0,l,s).fy.gk(0).e,l,"Alamat",10,1,new A.aKN(k),l,!0,l)
+n=A.bu(l,"Contoh: Dusun Selatan",(n==null?$.c=B.f:n).A(0,l,s).fy.gk(0).e,l,"Alamat",1,1,new A.aKN(k),l,!0,l)
 m=$.c
-return A.aR(A.b([B.aiK,B.aq,j,B.r,r,B.r,q,B.r,p,B.r,o,B.r,n,B.r,A.bu(l,"Contoh: Stasiun Geofisika Balikpapan",(m==null?$.c=B.f:m).A(0,l,s).fy.gk(0).f,l,"Stasiun Penanggung Jawab",10,1,new A.aKO(k),l,!0,A.br())],t.p),B.a2,new A.oZ(),B.l,B.j)},
+return A.aR(A.b([B.aiK,B.aq,j,B.r,r,B.r,q,B.r,p,B.r,o,B.r,n,B.r,A.bu(l,"Contoh: Stasiun Geofisika Balikpapan",(m==null?$.c=B.f:m).A(0,l,s).fy.gk(0).f,l,"Stasiun Penanggung Jawab",1,1,new A.aKO(k),l,!0,A.br())],t.p),B.a2,new A.oZ(),B.l,B.j)},
 $S:17}
 A.aKI.prototype={
 $1(a){var s,r,q=null,p=$.c
@@ -111775,7 +111775,7 @@ if(i!=null)i.a0(0,j.az$)
 j=j.aD$
 j===$&&A.a()
 if(J.ag(j)-1===m)k.push(A.dd(h,h,h,h,B.cU,h,new A.aLU(g),h,h,h,h,h))
-n[m]=new A.bn(B.VW,A.aR(A.b([new A.kA("Surat Tugas Nomor "+l,A.br(),"Masukkan nomor surat tugas",1,10,p,h,h,h,h,h,h),B.r,A.cI(k,B.m,h,B.bL,B.j),B.r,B.ch],r),B.m,h,B.d0,B.j),h)}B.b.S(q,n)
+n[m]=new A.bn(B.VW,A.aR(A.b([new A.kA("Surat Tugas Nomor "+l,A.br(),"Masukkan nomor surat tugas",1,1,p,h,h,h,h,h,h),B.r,A.cI(k,B.m,h,B.bL,B.j),B.r,B.ch],r),B.m,h,B.d0,B.j),h)}B.b.S(q,n)
 f=A.ca(A.dD(A.fc(h,A.aR(q,B.a2,h,B.l,B.j),f),h,h,B.J),1)
 $.aQ()
 s=t.E
@@ -112097,28 +112097,28 @@ j=(j==null?$.c=B.f:j).A(0,l,s).db
 r=$.c
 r=(r==null?$.c=B.f:r).A(0,l,s).cy.gk(0).a
 if(r==null)r=""
-r=A.bu(l,l,r,l,"Nomor Dokumen",10,1,new A.amB(k),l,l,A.br())
+r=A.bu(l,l,r,l,"Nomor Dokumen",1,1,new A.amB(k),l,l,A.br())
 q=$.c
 q=(q==null?$.c=B.f:q).A(0,l,s).cy.gk(0).b
 if(q==null)q=""
-q=A.bu(new A.aE(new A.bv(q,B.a0,B.K),$.af()),l,l,l,"Tanggal Terbit",10,1,new A.amC(k),new A.amD(k,this.b),!0,A.br())
+q=A.bu(new A.aE(new A.bv(q,B.a0,B.K),$.af()),l,l,l,"Tanggal Terbit",1,1,new A.amC(k),new A.amD(k,this.b),!0,A.br())
 p=$.c
 p=(p==null?$.c=B.f:p).A(0,l,s).cy.gk(0).c
 if(p==null)p=""
-p=A.bu(l,l,p,l,"Revisi",10,1,new A.amE(k),l,l,A.br())
+p=A.bu(l,l,p,l,"Revisi",1,1,new A.amE(k),l,l,A.br())
 o=$.c
 o=(o==null?$.c=B.f:o).A(0,l,s).cy.gk(0).d
 if(o==null)o=""
-o=A.bu(l,l,o,l,"Halaman",10,1,new A.amF(k),l,l,A.br())
+o=A.bu(l,l,o,l,"Halaman",1,1,new A.amF(k),l,l,A.br())
 n=$.c
 n=(n==null?$.c=B.f:n).A(0,l,s).cy.gk(0).e
 if(n==null)n=""
-n=A.bu(l,l,n,l,"Judul",10,1,new A.amG(k),l,l,A.br())
+n=A.bu(l,l,n,l,"Judul",1,1,new A.amG(k),l,l,A.br())
 m=$.c
 s=(m==null?$.c=B.f:m).A(0,l,s).cy.gk(0).f
 if(s==null)s=""
 m=t.p
-j=A.ca(A.dD(A.fc(l,A.aR(A.b([B.aiu,B.aq,r,B.r,q,B.r,p,B.r,o,B.r,n,B.r,A.bu(l,l,s,l,"Sub Judul",10,1,new A.amH(k),l,l,A.br())],m),B.a2,l,B.l,B.j),j),l,l,B.J),1)
+j=A.ca(A.dD(A.fc(l,A.aR(A.b([B.aiu,B.aq,r,B.r,q,B.r,p,B.r,o,B.r,n,B.r,A.bu(l,l,s,l,"Sub Judul",1,1,new A.amH(k),l,l,A.br())],m),B.a2,l,B.l,B.j),j),l,l,B.J),1)
 $.aQ()
 s=t.ur
 n=$.c
@@ -112199,11 +112199,11 @@ i=i.A(0,k,s).dy
 r=$.c
 r=(r==null?$.c=B.f:r).A(0,k,s).dx.gk(0).a
 if(r==null)r=""
-r=A.bu(k,k,r,k,"Nama Tim Kerja",10,1,new A.aD1(j),k,k,A.br())
+r=A.bu(k,k,r,k,"Nama Tim Kerja",1,1,new A.aD1(j),k,k,A.br())
 q=$.c
 q=(q==null?$.c=B.f:q).A(0,k,s).dx.gk(0).b
 if(q==null)q=""
-q=A.bu(k,k,q,k,"Lokasi",10,1,new A.aD2(j),k,k,A.br())
+q=A.bu(k,k,q,k,"Lokasi",1,1,new A.aD2(j),k,k,A.br())
 p=$.c
 if((p==null?$.c=B.f:p).A(0,k,s).fr.gk(0)!=null){p=$.c
 p=(p==null?$.c=B.f:p).A(0,k,s).fr.gk(0)
@@ -112211,14 +112211,14 @@ p.toString
 p=l.b.fs(p)}else p=""
 o=$.af()
 n=l.c
-p=A.ca(A.bu(new A.aE(new A.bv(p,B.a0,B.K),o),k,k,k,"Tanggal Mulai",10,1,k,new A.aD3(j,n),!0,A.br()),1)
+p=A.ca(A.bu(new A.aE(new A.bv(p,B.a0,B.K),o),k,k,k,"Tanggal Mulai",1,1,k,new A.aD3(j,n),!0,A.br()),1)
 m=$.c
 if((m==null?$.c=B.f:m).A(0,k,s).fx.gk(0)!=null){m=$.c
 s=(m==null?$.c=B.f:m).A(0,k,s).fx.gk(0)
 s.toString
 s=l.b.fs(s)}else s=""
 m=t.p
-i=A.ca(A.dD(A.fc(k,A.aR(A.b([B.aiC,B.aq,r,B.r,q,B.r,A.cI(A.b([p,B.i8,A.ca(A.bu(new A.aE(new A.bv(s,B.a0,B.K),o),k,k,k,"Tanggal Selesai",10,1,k,new A.aD4(j,n),!0,A.br()),1)],m),B.m,k,B.l,B.j)],m),B.a2,k,B.l,B.j),i),k,k,B.J),1)
+i=A.ca(A.dD(A.fc(k,A.aR(A.b([B.aiC,B.aq,r,B.r,q,B.r,A.cI(A.b([p,B.i8,A.ca(A.bu(new A.aE(new A.bv(s,B.a0,B.K),o),k,k,k,"Tanggal Selesai",1,1,k,new A.aD4(j,n),!0,A.br()),1)],m),B.m,k,B.l,B.j)],m),B.a2,k,B.l,B.j),i),k,k,B.J),1)
 $.aQ()
 n=t.ur
 o=$.c
@@ -112325,7 +112325,7 @@ o=A.cI(A.b([A.ca(A.b2n("Operasi",B.a24,new A.aDz(l,r,a),q.b),1),B.i8,A.ca(A.b2n(
 n=$.c
 s=J.X((n==null?$.c=B.f:n).A(0,m,s).fy.gk(0),r).b[a].d
 if(s==null)s=""
-return new A.bn(B.dK,A.aR(A.b([k,B.r,o,B.r,A.bu(m,m,s,m,"Keterangan",10,1,new A.aDB(l,r,a),m,m,m)],p),B.a2,m,B.l,B.j),m)},
+return new A.bn(B.dK,A.aR(A.b([k,B.r,o,B.r,A.bu(m,m,s,m,"Keterangan",1,1,new A.aDB(l,r,a),m,m,m)],p),B.a2,m,B.l,B.j),m)},
 $S:78}
 A.aDz.prototype={
 $1(a){var s,r=$.c
@@ -112388,13 +112388,13 @@ r=$.c
 r=(r==null?$.c=B.f:r).A(0,h,s).id.gk(0).a
 r=r==null?h:r.a
 if(r==null)r=""
-r=A.bu(h,h,r,h,"Nama Ketua Tim",10,1,new A.aDV(g),h,h,h)
+r=A.bu(h,h,r,h,"Nama Ketua Tim",1,1,new A.aDV(g),h,h,h)
 q=$.c
 q=(q==null?$.c=B.f:q).A(0,h,s).id.gk(0).a
 q=q==null?h:q.b
 if(q==null)q=""
 p=t.p
-q=A.b([B.tJ,B.aq,B.tM,B.r,r,B.r,A.bu(h,h,q,h,"NIP Ketua Tim",10,1,new A.aDW(g),h,h,h),B.aq,B.amZ,B.r],p)
+q=A.b([B.tJ,B.aq,B.tM,B.r,r,B.r,A.bu(h,h,q,h,"NIP Ketua Tim",1,1,new A.aDW(g),h,h,h),B.aq,B.amZ,B.r],p)
 r=$.c
 o=J.ag((r==null?$.c=B.f:r).A(0,h,s).k2.gk(0))
 n=J.bV(o,t.l7)
@@ -112421,7 +112421,7 @@ if(i!=null)i.a0(0,j.az$)
 j=j.aD$
 j===$&&A.a()
 if(J.ag(j)-1===m)k.push(A.dd(h,h,h,h,B.cU,h,new A.aDY(g),h,h,h,h,h))
-n[m]=A.aR(A.b([new A.kA("Nama Teknisi "+l,h,h,1,10,r,h,h,h,h,h,h),B.r,B.ch,A.cI(k,B.m,h,B.bL,B.j)],p),B.m,h,B.l,B.j)}B.b.S(q,n)
+n[m]=A.aR(A.b([new A.kA("Nama Teknisi "+l,h,h,1,1,r,h,h,h,h,h,h),B.r,B.ch,A.cI(k,B.m,h,B.bL,B.j)],p),B.m,h,B.l,B.j)}B.b.S(q,n)
 f=A.ca(A.dD(A.fc(h,A.aR(q,B.a2,h,B.l,B.j),f),h,h,B.J),1)
 $.aQ()
 s=t.ur
