@@ -109997,24 +109997,25 @@ s.A(0,null,t.J9).q1(0,"pemeliharaan_form")},
 $S:0}
 A.pS.prototype={
 q1(a,b){return this.b_P(0,b)},
-b_P(a,b){var s=0,r=A.x(t.H),q=this,p,o,n
+b_P(a,b){var s=0,r=A.x(t.H),q,p=this,o,n,m
 var $async$q1=A.y(function(c,d){if(c===1)return A.u(d,r)
 while(true)switch(s){case 0:$.aQ()
-p=$.c
-if(p==null)p=$.c=B.f
-o=p.A(0,null,t.AB)
-switch(b){case"pemeliharaan_form":n="Pemeliharaan Peralatan\nPemeliharaan ALOPTAMA"
+o=$.c
+if(o==null)o=$.c=B.f
+n=o.A(0,null,t.AB)
+if(n.db.gk(0)){s=1
+break}switch(b){case"pemeliharaan_form":m="Pemeliharaan Peralatan\nPemeliharaan ALOPTAMA"
 break
-case"checklist_form":n="Checklist Peralatan dan Perlengkapan\nPersiapan Pemeliharaan ALOPTAMA"
+case"checklist_form":m="Checklist Peralatan dan Perlengkapan\nPersiapan Pemeliharaan ALOPTAMA"
 break
-case"identifikasi_form":n="Identifikasi Kerusakan Peralatan\nPemeliharaan ALOPTAMA"
+case"identifikasi_form":m="Identifikasi Kerusakan Peralatan\nPemeliharaan ALOPTAMA"
 break
-case"korektif_form":n=u.B
+case"korektif_form":m=u.B
 break
-default:n=""}q.CW.sk(0,b)
-o.cy.sk(0,n)
-o.ni(b)
-return A.v(null,r)}})
+default:m=""}p.CW.sk(0,b)
+n.cy.sk(0,m)
+n.ni(b)
+case 1:return A.v(q,r)}})
 return A.w($async$q1,r)},
 wK(){var s=0,r=A.x(t.z),q=this,p,o
 var $async$wK=A.y(function(a,b){if(a===1)return A.u(b,r)
@@ -110781,19 +110782,20 @@ k.sk(0,!0)
 j=q.Bd()
 s=2
 return A.A(j,$async$ih)
-case 2:j=q.B8()
+case 2:j=J.W(a8)
+if(j.i(a8,"siteInfo")!=null){q.fy.sk(0,A.bdd(j.i(a8,"siteInfo")))
+i=A.bac(q.dy,new A.aur(q))
+if(i==null)i=A.b43(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+q.fr.sk(0,i)}i=q.B8()
 s=3
-return A.A(j,$async$ih)
-case 3:q.cx.sk(0,J.X(a8,"_id"))
+return A.A(i,$async$ih)
+case 3:q.cx.sk(0,j.i(a8,"_id"))
 s=4
 return A.A(A.pP(a8),$async$ih)
 case 4:a8=b0
 q.db.sk(0,A.boW(a8))
 j=J.W(a8)
-if(j.i(a8,"siteInfo")!=null){q.fy.sk(0,A.bdd(j.i(a8,"siteInfo")))
-i=A.bac(q.dy,new A.aur(q))
-if(i==null)i=A.b43(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-q.fr.sk(0,i)}if(j.i(a8,"basisPelaksanaan")!=null)for(i=A.b7(j.i(a8,"basisPelaksanaan"),!0,t.N),h=i.length,g=q.k2,f=g.az$,e=0;e<h;++e){d=i[e]
+if(j.i(a8,"basisPelaksanaan")!=null)for(i=A.b7(j.i(a8,"basisPelaksanaan"),!0,t.N),h=i.length,g=q.k2,f=g.az$,e=0;e<h;++e){d=i[e]
 c=d==null?B.x:new A.bv(d,B.a2,B.K)
 b=$.ae()
 a=g.aD$
