@@ -1,11 +1,11 @@
 {
-     "name": "Form Laporan BMKG",
-     "short_name": "Form Laporan BMKG",
+     "name": "GeoMaint Report",
+     "short_name": "GeoMaint Report",
      "start_url": ".",
      "display": "standalone",
      "background_color": "#0175C2",
      "theme_color": "#0175C2",
-     "description": "Form Laporan BMKG: Pembuatan Berbagai Form BMKG",
+     "description": "GeoMaint Report: Pembuatan Berbagai Form BMKG",
      "orientation": "portrait-primary",
      "prefer_related_applications": false,
      "icons": [
