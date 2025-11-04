@@ -1,0 +1,11 @@
+{
+  "BASE_URL": "https://api.geomaint.com",
+  "ENDPOINTS": {
+    "LISTSITE": "/openapi/metadata",
+    "REPORT": "/openapi/report",
+    "REPORTLIST": "/openapi/report/list",
+    "UPLOADIMAGE": "/openapi/uploadImage",
+    "OFFICERLIST": "/openapi/officer/list",
+    "SUKUCADANGLIST": "/sukucadang/list"
+  }
+}
