@@ -109947,18 +109947,18 @@ if(h)s=!m?"Ubah Data":"Simpan Data"
 else s="Selanjutnya"
 if(this.b){j=i?new A.amq():n.d
 r=i?B.dY:B.dZ
-j=A.cf(A.t7(r,j,o),p,120)
+j=A.cf(A.t7(r,j,o),p,125)
 r=t.p
-q=A.b([A.cf(A.t7(p,n.e,s),p,120)],r)
+q=A.b([A.cf(A.t7(p,n.e,s),p,125)],r)
 if(m&&n.f!=null&&n.w!=null){m=n.f
 m.toString
 n=n.w
 n.toString
 B.b.S(q,A.b([B.r,A.cf(A.t7(B.ju,m,n),p,200)],r))}n=A.b([j,A.aS(q,B.hb,p,B.k,B.j)],r)}else{j=i?new A.amr():n.d
 r=i?B.dY:B.dZ
-j=A.cf(A.t7(r,j,o),p,120)
+j=A.cf(A.t7(r,j,o),p,125)
 r=t.p
-j=A.b([j,A.cf(A.t7(p,n.e,s),p,120)],r)
+j=A.b([j,A.cf(A.t7(p,n.e,s),p,125)],r)
 if(m&&n.f!=null&&n.w!=null){m=n.f
 m.toString
 n=n.w
