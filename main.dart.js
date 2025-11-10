@@ -114725,6 +114725,13 @@ p.a=n==null?"":n
 p=o.gk(0)
 o=l.i(0,"tanggal_terbit")
 p.b=o==null?"":o
+p=q.dx
+o=p.gk(0)
+n=l.i(0,"nama_tim_kerja")
+o.a=n==null?"":n
+p=p.gk(0)
+o=l.i(0,"lokasi")
+p.b=o==null?"":o
 p=l.i(0,"tanggal_mulai")
 if((p==null?null:J.ab(p)!==0)===!0){p=l.i(0,"tanggal_mulai")
 p.toString
